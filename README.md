@@ -1,0 +1,4 @@
+Possuo graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Nossa Senhora do Patrocínio (2020) e Redes de Computadores pela Faculdade de Tecnologia de Indaiatuba (2021). Atualmente atuo como desenvolvedor front-end jr. web (Angular) e mobile (React Native) pela empresa Zasso Brasil, também exerço a função de tutor em sala de aula pela Universidade Paulista polo Indaiatuba. 
+Trabalho na área de desenvolvimento Web/mobile a mais de 2 anos e já tive a oportunidade de desenvolver diversos tipos de sistemas entre eles: web, mobile, endpoints para API e sistemas IoT, sempre utilizando de tecnologias modernas para o desenvolvimento, entre elas React Native, Angular, NodeJs.
+Tenho experiência na área de ciências da computação, com ênfase em Internet of Things, no qual realizei um projeto de iniciação científica como bolsista pela Fatec indaiatuba.
+Busco aperfeiçoamento no desenvolvimento front-end e mobile utilizando de metodologias ágeis.
