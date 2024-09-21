@@ -1,4 +1,7 @@
-Possuo graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Nossa Senhora do Patrocínio (2020) e Redes de Computadores pela Faculdade de Tecnologia de Indaiatuba (2021). Atualmente atuo como desenvolvedor front-end jr. web (Angular) e mobile (React Native) pela empresa Zasso Brasil, também exerço a função de tutor em sala de aula pela Universidade Paulista polo Indaiatuba. 
-Trabalho na área de desenvolvimento Web/mobile a mais de 2 anos e já tive a oportunidade de desenvolver diversos tipos de sistemas entre eles: web, mobile, endpoints para API e sistemas IoT, sempre utilizando de tecnologias modernas para o desenvolvimento, entre elas React Native, Angular, NodeJs.
-Tenho experiência na área de ciências da computação, com ênfase em Internet of Things, no qual realizei um projeto de iniciação científica como bolsista pela Fatec indaiatuba.
-Busco aperfeiçoamento no desenvolvimento front-end e mobile utilizando de metodologias ágeis.
+Sou desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas e Redes de Computadores, com experiência no desenvolvimento de aplicações web e mobile. Atualmente, meu foco é o desenvolvimento full stack utilizando o ecossitema do TypeScript.
+
+Ao longo da minha carreira, tive a oportunidade de trabalhar em diferentes tipos de sistemas, incluindo redes IoT, soluções mobile com React Native, desenvolvimento Web com Angular. Aplicando boas práticas de desenvolvimento e metodologias ágeis, visando entregar soluções robustas e eficientes.
+
+Atualmente atuo como Desenvolvedor de Software Jr. na Samsung, onde contribuo para um projeto que utiliza as tecnologias React.js e Node.js. Participo ativamente do processo de colaboração com a equipe, trocando conhecimentos e ideias para solucionar desafios técnicos.
+
+Meu objetivo é continuar evoluindo como desenvolvedor full stack, aprofundando-me em React e nas tecnologias modernas do ecossistema JavaScript, contribuindo para projetos inovadores e desafiadores.
